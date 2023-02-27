@@ -1,0 +1,26 @@
+                             						 Basics of HTMl
+
+
+
+<ol>-ordered list
+<list>- to specify the list items inside ol tag.
+<ul>-unordered list
+<img src="path of the image" alt="description of image">-To pull a image from local machine
+<alt="">-if the browser have some issues then the description of the image is available.
+<width>-attribute to adjust the width of image.
+<a href="google.com">google</a>-anchor tag to move to another website.
+<table>-tag to create table.
+<thead>-to give table heading.
+<th>- table heading.
+<tbody>-table body(All data is written in body)
+<tr>-table row.
+<td>-table data.
+
+CSS
+<form>-to create a form
+<input type="Text placeholder"Full name" name="name">--to create a form for user to input his/her name
+<button>-to create a button.
+<link rel="Stylesheet" href="styles.css">--tag to link css file to html page.
+<padding>-to provide space between content and divison.
+<margin>-to give margin between div and extremes of webpage.
+
