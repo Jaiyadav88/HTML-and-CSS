@@ -1,31 +1,26 @@
-<style>
-    .Subscribe{
-        background-color: rgb(180, 0, 0);
-        color:white;
-        border: none;
-        height:46px;
-        width: 105px;
-        border-radius:4px;
-        cursor: pointer;
-    }
-    .join{
-        background-color: white;
-        color:rgb(0, 0, 200);
-        height:47px;
-        width:67px;
-        border-color: rgb(73, 83, 228);
-        border-radius: 3.2px;
-        border-style: solid;
-    }
+                             						 Basics of HTMl
 
-</style>
-<button class="join">
-    Join
-</button>
 
-<button class="Subscribe">
-    Subscribe
-</button>
-<button>
-tweet
-</button>
+
+<ol>-ordered list
+<list>- to specify the list items inside ol tag.
+<ul>-unordered list
+<img src="path of the image" alt="description of image">-To pull a image from local machine
+<alt="">-if the browser have some issues then the description of the image is available.
+<width>-attribute to adjust the width of image.
+<a href="google.com">google</a>-anchor tag to move to another website.
+<table>-tag to create table.
+<thead>-to give table heading.
+<th>- table heading.
+<tbody>-table body(All data is written in body)
+<tr>-table row.
+<td>-table data.
+
+CSS
+<form>-to create a form
+<input type="Text placeholder"Full name" name="name">--to create a form for user to input his/her name
+<button>-to create a button.
+<link rel="Stylesheet" href="styles.css">--tag to link css file to html page.
+<padding>-to provide space between content and divison.
+<margin>-to give margin between div and extremes of webpage.
+
