@@ -24,3 +24,58 @@ CSS
 <padding>-to provide space between content and divison.
 <margin>-to give margin between div and extremes of webpage.
 
+
+
+
+
+<center>
+<h1>This is a level 1 heading</h1>
+<h1>This is a level 1 text</h1>
+<h2>This is a level 2 text</h2>
+<h3>This is a level 3 text</h3>
+<h4>This is a level 4 text</h4>
+<h5>This is a level 5 text</h5>
+<h6>This is a level 6 text</h6>
+</center>
+
+
+
+<!--These are list tags
+<br>-This tag is used to break the line
+<center></center>-used to align the text in the body to center -->
+
+<table  border="1">
+    <thead>
+        <tr>
+            <td>
+                Experience
+            </td>
+            <td>Jobs</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                2020-2023
+            </td>
+            <td>SDE</td>
+        </tr>
+    </tbody>
+</table>
+<!--This is the syntax of the table-->
+<!--------------------------------------------------------------------------------------------------------->
+<!--This is the syntax of how to create a form and its child element for input and labels-->
+<form action="mailto:email of a person" method="post">
+    <label>Your Name:</label>
+    <input type="text">
+    <label>Password:</label>
+    <input type="password">
+    <input type="submit">
+    <label>checkbox:</label>
+    <input type="checkbox">
+    <label>Date</label>
+    <input type="date">
+    <input type="color">
+<textarea rows="10" cols="10"></textarea>// to create a text area
+</form>
+
